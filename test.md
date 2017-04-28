@@ -9,6 +9,34 @@ categories:
 photos:
 - /pic/pear.jpg
 ---
-testing !!! 
+
+*testing !!! *
 <!--more-->
-test for some works
+
+ **test for some works ** 
+ > Some emotions ! 
+ 
+
+test
+
+	conding
+测试
+```
+test coding
+```
+测试
+```bash
+test for coding
+```
+
+测试
+
+```bash
+测试 代码 “高亮”
+```
+
+测试
+
+```bash
+code Highlight testing
+```
