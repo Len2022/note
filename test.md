@@ -15,7 +15,7 @@ photos:
 
  **test for some works ** 
  > Some emotions ! 
- 
+
 
 test
 
@@ -40,3 +40,8 @@ test for coding
 ```bash
 code Highlight testing
 ```
+
+
+再见！
+
+{% dplayer "url=http://video.wind.tk/%e5%86%8d%e8%a7%81%20-%20G.E.M.%e9%82%93%e7%b4%ab%e6%a3%8b.mp4"  "autoplay=false" "pic=https://lifewithhapply.top/pic/01.jpg" %}
