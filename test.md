@@ -45,3 +45,14 @@ code Highlight testing
 再见！
 
 {% dplayer "url=http://v4.music.126.net/20170611012350/f0a46c9b3733b2beabdeb2cb8bb79dfb/web/cloudmusic/I2RhMDQwMSIlMCQgIjAyMg==/mv/499047/21506e7ba0d1cc0747d80af08388d8a2.mp4"  "autoplay=false" "pic=" %}
+
+
+
+
+<video width="1200" height="720" controls>
+<source src="http://v4.music.126.net/20170611012350/f0a46c9b3733b2beabdeb2cb8bb79dfb/web/cloudmusic/I2RhMDQwMSIlMCQgIjAyMg==/mv/499047/21506e7ba0d1cc0747d80af08388d8a2.mp4">
+</video>
+
+
+<link href="//vjs.zencdn.net/5.19/video-js.min.css" rel="stylesheet">
+<script src="//vjs.zencdn.net/5.19/video.min.js"></script>
