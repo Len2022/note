@@ -44,4 +44,4 @@ code Highlight testing
 
 再见！
 
-{% dplayer "url=https://video.lifewithhapply.top/%e5%86%8d%e8%a7%81%20-%20G.E.M.%e9%82%93%e7%b4%ab%e6%a3%8b.mp4"  "autoplay=false" "pic=https://lifewithhapply.top/pic/01.jpg" %}
+{% dplayer "url=http://ws.acgvideo.com/e/e7/4938986-1hd.mp4?wsTime=1497082606&platform=pc&wsSecret2=52bf7e666f95e794e0f5c26173227410&oi=1891755669&rate=700"  "autoplay=false" "pic=" %}
