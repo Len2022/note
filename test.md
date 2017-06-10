@@ -44,4 +44,4 @@ code Highlight testing
 
 再见！
 
-{% dplayer "url=http://ws.acgvideo.com/e/e7/4938986-1hd.mp4?wsTime=1497082606&platform=pc&wsSecret2=52bf7e666f95e794e0f5c26173227410&oi=1891755669&rate=700"  "autoplay=false" "pic=" %}
+{% dplayer "url=http://v4.music.126.net/20170611012350/f0a46c9b3733b2beabdeb2cb8bb79dfb/web/cloudmusic/I2RhMDQwMSIlMCQgIjAyMg==/mv/499047/21506e7ba0d1cc0747d80af08388d8a2.mp4"  "autoplay=false" "pic=" %}
